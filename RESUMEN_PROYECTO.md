@@ -216,38 +216,15 @@ git push -u origin main
 **Ing Andrés Cervantes Torres**
 - 🎓 Maestría en Matemáticas Aplicadas y Ciencias de la Computación con especialización en IA
 - 🏫 Universidad del Rosario, Colombia
-- 💼 17+ años de experiencia en TI y Arquitectura Empresarial
+- 💼 16+ años de experiencia en TI y Arquitectura Empresarial
 - 🎯 Objetivo: Ser el mejor data scientist en LATAM dentro de 5 años
 
 ### Experiencia Profesional
 - Enterprise Architecture en MSC, GRUMA, Chiquita Brands, RECOPE
-- Frameworks: COBIT, ITIL, SCRUM
 - Especialización en Machine Learning y QSAR Modeling
 
 ### LinkedIn
 - https://www.linkedin.com/in/andres-cervantes-torres/
-
----
-
-## ✨ Características Destacadas
-
-### Código Limpio
-- ✅ Comentarios en español
-- ✅ Variables descriptivas
-- ✅ Estructura secuencial (sin funciones complejas)
-- ✅ Fácil de entender para principiantes
-
-### Documentación Completa
-- ✅ README detallado
-- ✅ Guía de instalación paso a paso
-- ✅ Ejemplos de uso
-- ✅ Solución de problemas comunes
-
-### Profesionalismo
-- ✅ Licencia MIT
-- ✅ Archivo de citación académica
-- ✅ .gitignore configurado
-- ✅ Requirements.txt incluido
 
 ---
 
@@ -292,20 +269,6 @@ git push -u origin main
 
 ---
 
-## 🔮 Posibles Mejoras Futuras
-
-### Versión 2.0 podría incluir:
-- [ ] Análisis de regresión lineal y múltiple
-- [ ] Pruebas de normalidad (Shapiro-Wilk, Kolmogorov-Smirnov)
-- [ ] ANOVA y pruebas post-hoc
-- [ ] Análisis de componentes principales (PCA)
-- [ ] Dashboard interactivo con Plotly/Dash
-- [ ] Notebook de Jupyter con ejemplos paso a paso
-- [ ] Detección de outliers y análisis de sensibilidad
-- [ ] Series de tiempo básicas
-
----
-
 ## 🎓 Aprendizajes Clave del Proyecto
 
 ### Técnicos:
@@ -325,41 +288,6 @@ git push -u origin main
 2. Creación de proyectos reproducibles
 3. Buenas prácticas en Git/GitHub
 4. Licenciamiento de software open source
-
----
-
-## ✅ Checklist de Completitud
-
-- [x] Código funcional y probado
-- [x] Documentación completa
-- [x] Comentarios en español
-- [x] Visualizaciones profesionales
-- [x] Exportación a Excel
-- [x] Archivo de licencia
-- [x] .gitignore configurado
-- [x] Requirements.txt
-- [x] README detallado
-- [x] Guía de GitHub
-- [x] Archivo de citación
-- [x] Dataset incluido
-- [x] Ejemplos de uso
-
----
-
-## 🎯 Conclusión
-
-Este proyecto demuestra competencias sólidas en:
-- ✅ Análisis estadístico
-- ✅ Programación en Python
-- ✅ Visualización de datos
-- ✅ Documentación técnica
-- ✅ Buenas prácticas de desarrollo
-
-**Ideal para:**
-- Aplicaciones de empleo en Data Science
-- Portafolio profesional
-- Material educativo
-- Base para proyectos más complejos
 
 ---
 
