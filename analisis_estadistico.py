@@ -2,7 +2,6 @@
 # coding: utf-8
 
 # ANALISTA DE DATOS III - LATAM
-# Costa Rica|req23818
 
 # In[1]:
 
