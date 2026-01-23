@@ -1,49 +1,54 @@
-# History files
-.Rhistory
-.Rapp.history
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
 
-# Session Data files
-.RData
-.RDataTmp
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
 
-# User-specific files
-.Ruserdata
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
 
-# Example code in package build process
-*-Ex.R
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
 
-# Output files from R CMD build
-/*.tar.gz
+# Outputs (opcional - quita el comentario si NO quieres versionar los resultados)
+# *.png
+# *.xlsx
+# *.csv
 
-# Output files from R CMD check
-/*.Rcheck/
+# Anaconda
+.conda/
+.spyproject/
 
-# RStudio files
-.Rproj.user/
+# pytest
+.pytest_cache/
 
-# produced vignettes
-vignettes/*.html
-vignettes/*.pdf
-
-# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
-.httr-oauth
-
-# knitr and R markdown default cache directories
-*_cache/
-/cache/
-
-# Temporary files created by R markdown
-*.utf8.md
-*.knit.md
-
-# R Environment Variables
-.Renviron
-
-# pkgdown site
-docs/
-
-# translation temp files
-po/*~
-
-# RStudio Connect folder
-rsconnect/
+# mypy
+.mypy_cache/
