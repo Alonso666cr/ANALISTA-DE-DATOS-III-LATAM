@@ -165,7 +165,7 @@ python analisis_estadistico.py
 
 ⚠️ **Requiere:**
 - Mantener el aviso de copyright
-- Mantener la atribución al autor original (Apache)
+- Mantener la atribución al autor original (Ing. Andrés Cervantes Torres)
 
 ❌ **No proporciona:**
 - Garantía
@@ -213,7 +213,7 @@ git push -u origin main
 
 ## 📞 Información del Autor
 
-**Apache**
+**Ing Andrés Cervantes Torres**
 - 🎓 Maestría en Matemáticas Aplicadas y Ciencias de la Computación con especialización en IA
 - 🏫 Universidad del Rosario, Colombia
 - 💼 17+ años de experiencia en TI y Arquitectura Empresarial
@@ -223,6 +223,9 @@ git push -u origin main
 - Enterprise Architecture en MSC, GRUMA, Chiquita Brands, RECOPE
 - Frameworks: COBIT, ITIL, SCRUM
 - Especialización en Machine Learning y QSAR Modeling
+
+### LinkedIn
+- https://www.linkedin.com/in/andres-cervantes-torres/
 
 ---
 
@@ -366,4 +369,6 @@ Este proyecto demuestra competencias sólidas en:
 
 ---
 
-¡Éxito en tu aplicación! 🚀
+Me llamó la atención que en una oferta laboral, solicitaban un perfil con conocimiento de la metodología y herramientas aquí aplicadas.
+Por eso saqué un tiempito para recordar los inicios de lo que fue mí maestría en Matemáticas Aplicadas y Ciencias de la Computación en URosario, Bogotá.
+¡Éxitos en su aprendizaje y aplicación! 🚀
