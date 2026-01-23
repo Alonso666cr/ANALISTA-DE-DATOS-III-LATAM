@@ -198,11 +198,11 @@ Este proyecto fue creado como demostración de análisis estadístico descriptiv
 
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
-**Atribución requerida**: Si usas, modificas o distribuyes este código, por favor mantén la atribución del autor original (Apache) en cualquier trabajo derivado o documentación.
+**Atribución requerida**: Si usas, modificas o distribuyes este código, por favor mantén la atribución del autor original (Ing. Andrés Cervantes Torres) en cualquier trabajo derivado o documentación.
 
 ## 👤 Autor
 
-**Apache**
+**Ing. Andrés Cervantes Torres**
 - 🎓 Estudiante de Maestría en Matemáticas Aplicadas y Ciencias de la Computación
 - 🏫 Universidad del Rosario, Colombia
 - 💼 17+ años de experiencia en TI y Arquitectura Empresarial
