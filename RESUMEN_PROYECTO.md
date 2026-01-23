@@ -203,7 +203,7 @@ python analisis_estadistico.py
 git init
 git add .
 git commit -m "Initial commit"
-git remote add origin https://github.com/TU_USUARIO/proyecto.git
+git remote add origin https://github.com/alonso666cr/proyecto.git
 git push -u origin main
 ```
 
