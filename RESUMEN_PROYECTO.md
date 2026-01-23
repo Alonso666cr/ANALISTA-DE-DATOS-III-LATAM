@@ -188,25 +188,6 @@ python analisis_estadistico.py
 3. **Docentes** - Material didáctico
 4. **Analistas de datos** - Base para proyectos más complejos
 
----
-
-## 🔄 Cómo Subir a GitHub
-
-### Método 1: GitHub Desktop (Recomendado para principiantes)
-1. Instalar GitHub Desktop
-2. Add Local Repository
-3. Publish repository
-4. ¡Listo!
-
-### Método 2: Línea de comandos
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git remote add origin https://github.com/alonso666cr/ANALISTA-DE-DATOS-III-LATAM
-git push -u origin main
-```
-
 **Ver guía detallada:** `GUIA_GITHUB.md`
 
 ---
