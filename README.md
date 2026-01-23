@@ -177,7 +177,7 @@ variables_numericas = ['Variable1', 'Variable2', 'Variable3']
 
 Este proyecto fue creado como demostración de análisis estadístico descriptivo.
 
-**Autor**: Apache  
+**Autor**: Ing. Andrés Cervantes Torres
 **Fecha**: Enero 2026  
 **Propósito**: Aplicación a oferta de empleo - Análisis Estadístico
 
