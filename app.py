@@ -14,6 +14,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 from scipy import stats
+import io
 
 # =============================================================================
 # CONFIGURACIÓN DE STREAMLIT
@@ -82,9 +83,9 @@ st.subheader("Tipos de datos por columna:")
 st.write(df.dtypes)
 
 st.subheader("Información general del dataset:")
-buffer = []
+buffer = io.StringIO()
 df.info(buf=buffer)
-st.text('\n'.join(buffer))
+st.text(buffer.getvalue())
 
 st.subheader("Verificación de valores nulos:")
 st.write(df.isnull().sum())
