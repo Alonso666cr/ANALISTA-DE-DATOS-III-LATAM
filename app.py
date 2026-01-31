@@ -3,7 +3,7 @@
 
 # ANALISTA DE DATOS III - LATAM
 
-# In[1]:
+# In[3]:
 
 
 """
@@ -40,7 +40,7 @@ sns.set_palette("husl")
 print("✓ Librerías importadas correctamente\n")
 
 
-# In[2]:
+# In[4]:
 
 
 # =============================================================================
@@ -62,6 +62,10 @@ print(f"\nPrimeros registros del dataset:")
 print(df.head(10))
 print("\n")
 
+
+# In[5]:
+
+
 # =============================================================================
 # 3. EXPLORACIÓN INICIAL DE LOS DATOS
 # =============================================================================
@@ -78,6 +82,10 @@ print(df.info())
 print("\nVerificación de valores nulos:")
 print(df.isnull().sum())
 print("\n")
+
+
+# In[6]:
+
 
 # =============================================================================
 # 4. MEDIDAS DE POSICIÓN (TENDENCIA CENTRAL)
