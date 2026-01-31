@@ -1,6 +1,8 @@
 # ANALISTA-DE-DATOS-III-LATAM
 Ejemplo práctico de lo que se solicita, conozca un ANALISTA DE DATOS III de una importante entidad financiera privada en Costa Rica [23-01-2026].
 
+El enlace interactivo a la aplicación está en: https://dataanalyst3.streamlit.app/
+
 # PROYECTO DE ANÁLISIS ESTADÍSTICO DESCRIPTIVO
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
